@@ -17,9 +17,10 @@ public class JavaVar {
 
         //With our current Allowance, how many battle passses will we be able to buy?
         System.out.println("With out current allowance, we should be able to buy 2 battlepasses");
-
+        // used println to output a piece of text
 
         //What is the total cost of battle passes
         System.out.println("The total costs of the battle pass = " + battlepass);
+        // used println to output a piece of text and used a variable to output the cost of a battle pass
     }
 }
